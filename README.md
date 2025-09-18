@@ -50,6 +50,10 @@ npm run dev
 ```
 ![Untitled (1) (1)](https://github.com/Ali-dotcom98/CollabAssign/blob/main/Website%20Mockup%20(Community).png?raw=true)
 
-https://github.com/user-attachments/assets/777aaf24-1b3e-4fe5-ae41-3cf9f786b595
+
+https://github.com/user-attachments/assets/9d3967a7-da9b-45d4-89c0-9457a8d2e0c6
+
+
+
 
 
