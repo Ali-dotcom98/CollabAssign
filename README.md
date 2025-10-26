@@ -49,6 +49,7 @@ npm install
 npm run dev
 ```
 ![Untitled (1) (1)](https://github.com/Ali-dotcom98/CollabAssign/blob/main/Website%20Mockup%20(Community).png?raw=true)
+https://github.com/user-attachments/assets/9d3967a7-da9b-45d4-89c0-9457a8d2e0c6
 
 
 
