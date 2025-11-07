@@ -48,7 +48,7 @@ npm install
 # Start the development server
 npm run dev
 ```
-![Untitled (1) (1)](https://github.com/Ali-dotcom98/CollabAssign/blob/main/Website%20Mockup%20(Community).png?raw=true)
+![Untitled (1) (1)](https://github.com/Ali-dotcom98/CollabAssign/blob/main/CodeAssing2.png?raw=true)
 
 https://github.com/user-attachments/assets/19ae1326-f9b9-4634-84fb-1973d1b50866
 
