@@ -24,7 +24,7 @@
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 - **Frontend:** React.js (Tailwind CSS for styling), Recharts  
 - **Backend:** Node.js, Express.js, Socket.IO  
 - **Database:** MongoDB (Mongoose)  
