@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Features
+## 🌟 Features
 
 ### Assignment Creation
 - Instructors can create **MCQs**, **True/False**, **Short Answer**, or **Coding** tasks.  
