@@ -6,25 +6,25 @@
 
 ## 🚀 Features
 
-### ✍️ Assignment Creation
+### Assignment Creation
 - Instructors can create **MCQs**, **True/False**, **Short Answer**, or **Coding** tasks.  
 - Flexible group settings: choose **group size**, **random assignments**, or **manual grouping**.  
 - Control assignment visibility and late submission options.  
 
-### ⚡ Real-Time Collaboration
+### Real-Time Collaboration
 - Multiple students can **edit answers simultaneously**.  
 - **Live updates** for all group members without page refresh.  
 - **Refinement voting system** for improving group solutions.  
 - Lock/unlock answers to prevent unauthorized changes.  
 
-### 💬 Communication & Tracking
+### Communication & Tracking
 - Built-in **real-time chat** for group discussions.  
 - Performance analytics for both instructors and students.  
 - Instant feedback and progress tracking.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Frontend:** React.js (Tailwind CSS for styling), Recharts  
 - **Backend:** Node.js, Express.js, Socket.IO  
 - **Database:** MongoDB (Mongoose)  
